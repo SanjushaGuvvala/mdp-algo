@@ -9,7 +9,7 @@ public class Constants {
 	public static final int ROBOT_SIZE = 9;
 
 	public int[] START = {1,12}; //needs to change
-	public static final int[] GOAL = {14, 19};
+	public static final int[] GOAL = {13, 18};
 
 	
 
